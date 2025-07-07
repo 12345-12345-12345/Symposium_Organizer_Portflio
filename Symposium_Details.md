@@ -69,10 +69,9 @@ Here are some glimpses from the Quantum Leap 1.0 symposium:
 ![Freefire Event](Images/Freefire_Event.jpg)
 *Participants gathered for competitive gameplay.*
 
-### Connexion Event
-![Connexion](Images/Connexion.jpg)
-*Participants focused on strategic thinking challenges.*
+---
 
-### PaperPresention Event
-![PaperPresentation](Images/Paper_Presentation.jpg)
-*Showcasing innovative research papers and presentations.*
+## Conclusion
+
+This symposium was a significant learning experience, enhancing my skills in event management, leadership, and technical coordination. I am grateful for the opportunity to contribute to a successful college event.
+
