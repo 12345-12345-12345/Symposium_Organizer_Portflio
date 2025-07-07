@@ -36,3 +36,44 @@
 * Communication
 * HackerRank (Platform Usage)
 * Technical Content Creation
+
+# Quantum Leap 1.0 Symposium - Organizer / Coordinator Role
+... (Your existing content) ...
+
+---
+
+## Event Highlights / Photo Gallery:
+
+Here are some glimpses from the Quantum Leap 1.0 symposium:
+
+### Principal Speech
+![Principal Speech](images/Principal_Speech.jpg)
+*The main stage set up for the opening ceremony.*
+
+### Debugging Event in Progress
+![Debugging Event](images/Debugging_event.jpg)
+*Participants engaged in the challenging Debugging Event.*
+
+### Organizer Team
+![Organizer Team](images/Organizers.jpg)
+*Our dedicated team of Organizers.*
+
+### Code Event in Progress
+![Codewar Event](images/Codewar_event.jpg).
+*Participants were dedicatedly fighting with the codes.*
+
+### Poster Making Event
+![Poster Making Event](images/Poster_Making.jpg)
+*Winners and the Organizers*
+
+### FreeFire Event
+![Freefire Event](images/Freefire_Event.jpg)
+*All the crowd gathered there for firing out the opponets.*
+
+### Connexion Event
+![Connexion](images/Connexion.jpg)
+*Playing with the Brain.*
+
+### PaperPresention Event
+![PaperPresentation](Paper_Presentation.jpg)
+*Enormous Presenting of Papers.*
