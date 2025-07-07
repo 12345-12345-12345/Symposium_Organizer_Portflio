@@ -58,21 +58,21 @@ Here are some glimpses from the Quantum Leap 1.0 symposium:
 *Our dedicated team of Organizers.*
 
 ### Code Event in Progress
-![Codewar Event](Images/Codewar_event.jpg).
-*Participants were dedicatedly fighting with the codes.*
+![Codewar Event](Images/CodeWar_event.jpg).
+*Participants were dedicatedly engaged in coding challenges.*
 
 ### Poster Making Event
 ![Poster Making Event](Images/Poster_Making.jpg)
-*Winners and the Organizers*
+*Winners and the Organizers of the Poster Making Event.*
 
 ### FreeFire Event
 ![Freefire Event](Images/Freefire_Event.jpg)
-*All the crowd gathered there for firing out the opponets.*
+*Participants gathered for competitive gameplay.*
 
 ### Connexion Event
 ![Connexion](Images/Connexion.jpg)
-*Playing with the Brain.*
+*Participants focused on strategic thinking challenges.*
 
 ### PaperPresention Event
 ![PaperPresentation](Images/Paper_Presentation.jpg)
-*Enormous Presenting of Papers.*
+*Showcasing innovative research papers and presentations.*
